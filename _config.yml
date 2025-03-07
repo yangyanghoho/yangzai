@@ -1,6 +1,6 @@
 # main text of home
-title: Yuki Jin
-bio: A girl who enjoys daily life.
+title: Yangzai Liu
+bio: A boy who loves new technology.
 
 # twitter summary info
 description: A blog about me and my other stuff related
@@ -20,7 +20,7 @@ resume: false
 resume-external: false
 resume-url: 
 
-url: https://yangyanghoho.github.io/jinzi
+url: https://yangyanghoho.github.io/yangzai
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -39,12 +39,12 @@ disqus:
 #instagram: myinstagram
 #linkedin: mylinkedin
 github: yangyanghoho
-email: yuki6663@outlook.com
+email: heyliuyang@126.com
 
 authors:
   johndoe:
-    name: Yuki Jin
-    bio: A girl who enjoys daily life.
+    name: Yangzai Liu
+    bio: A boy who loves new technology.
     external-image: false
     picture: assets/images/profile.jpg
     #twitter: johndoe
